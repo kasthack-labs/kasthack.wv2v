@@ -1,6 +1,5 @@
 <Project>
   <PropertyGroup>
-    <Nullable>enable</Nullable>
     <NoWarn>SA1633;SA1600;SA1601;CS1591</NoWarn>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <StyleCopTreatErrorsAsWarnings>True</StyleCopTreatErrorsAsWarnings>
